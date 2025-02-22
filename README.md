@@ -1,12 +1,12 @@
 # Hands-On Large Language Models
 
-<a href="https://www.linkedin.com/in/navdeep-singh-62b55990/"><img src="https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin"></a>
-<a href="https://www.linkedin.com/in/bavalpreet-singh/"><img src="https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/navdeep-singh-62b55990/"><img src="https://img.shields.io/badge/Follow%20Navdeep-blue.svg?logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/bavalpreet-singh/"><img src="https://img.shields.io/badge/Follow%20Baval-blue.svg?logo=linkedin"></a>
 
 
-Welcome! In this repository you will find the code for all examples throughout the book [Chunking Strtegies A-Z](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) written by [Dr Navdeep Singh](https://www.linkedin.com/in/navdeep-singh-62b55990/) and [Bavalpreet Singh](https://www.linkedin.com/in/bavalpreet-singh/) which we playfully dubbed: <br> 
+Welcome! In this repository you will find the code for all examples throughout the book [Chunking Strtegies A-Z](<TBD>) written by [Dr Navdeep Singh](https://www.linkedin.com/in/navdeep-singh-62b55990/) and [Bavalpreet Singh](https://www.linkedin.com/in/bavalpreet-singh/)<br> 
 
-<p align="center"><b><i>"The Illustrated LLM Book"</i></b></p>
+<p align="center"><b><i>"Chunking Strategies A-Z"</i></b></p>S
 
 <Quote>
 
@@ -29,18 +29,18 @@ We advise to run all examples through Google Colab for the easiest setup. Google
 
 | Chapter  | Notebook  |
 |---|---|
-| Chapter 1: Introduction to Language Models  | [![Open In Colab](TBD)   |
-| Chapter 2: Tokens and Embeddings  | [![Open In Colab](TBD)  |
-| Chapter 3: Looking Inside Transformer LLMs  | [![Open In Colab](TBD)  |
-| Chapter 4: Text Classification  | [![Open In Colab](TBD)  |
-| Chapter 5: Text Clustering and Topic Modeling  | [![Open In Colab](TBD)  |
-| Chapter 6: Prompt Engineering  | [![Open In Colab](TBD)  |
-| Chapter 7: Advanced Text Generation Techniques and Tools  | [![Open In Colab](TBD)  |
-| Chapter 8: Semantic Search and Retrieval-Augmented Generation  | [![Open In Colab](TBD)  |
-| Chapter 9: Multimodal Large Language Models  | [![Open In Colab](TBD)  |
-| Chapter 10: Creating Text Embedding Models  | [![Open In Colab](TBD)  |
-| Chapter 11: Fine-tuning Representation Models for Classification  | [![Open In Colab](TBD)  |
-| Chapter 12: Fine-tuning Generation Models  | [![Open In Colab](TBD)  |
+| Chapter 1: <TBD>  | [![Open In Colab](TBD)   |
+| Chapter 2: <TBD>  | [![Open In Colab](TBD)  |
+| Chapter 3: <TBD>  | [![Open In Colab](TBD)  |
+| Chapter 4: <TBD>  | [![Open In Colab](TBD)  |
+| Chapter 5: <TBD>  | [![Open In Colab](TBD)  |
+| Chapter 6: <TBD>  | [![Open In Colab](TBD)  |
+| Chapter 7: <TBD>  | [![Open In Colab](TBD)  |
+| Chapter 8: <TBD>  | [![Open In Colab](TBD)  |
+| Chapter 9: <TBD>  | [![Open In Colab](TBD)  |
+| Chapter 10: <TBD>  | [![Open In Colab](TBD)  |
+| Chapter 11: <TBD>  | [![Open In Colab](TBD)  |
+| Chapter 12: <TBD>  | [![Open In Colab](TBD)  |
 
 > [!TIP]
 > You can check the [setup](.setup/) folder for a quick-start guide to install all packages locally and you can check the [conda](.setup/conda/) folder for a complete guide on how to setup your environment, including conda and PyTorch installation.
