@@ -35,12 +35,7 @@ We advise to run all examples through Google Colab for the easiest setup. Google
 | Chapter 4: <TBD>  | [![Open In Colab](TBD)  |
 | Chapter 5: <TBD>  | [![Open In Colab](TBD)  |
 | Chapter 6: <TBD>  | [![Open In Colab](TBD)  |
-| Chapter 7: <TBD>  | [![Open In Colab](TBD)  |
-| Chapter 8: <TBD>  | [![Open In Colab](TBD)  |
-| Chapter 9: <TBD>  | [![Open In Colab](TBD)  |
-| Chapter 10: <TBD>  | [![Open In Colab](TBD)  |
-| Chapter 11: <TBD>  | [![Open In Colab](TBD)  |
-| Chapter 12: <TBD>  | [![Open In Colab](TBD)  |
+
 
 > [!TIP]
 > You can check the [setup](.setup/) folder for a quick-start guide to install all packages locally and you can check the [conda](.setup/conda/) folder for a complete guide on how to setup your environment, including conda and PyTorch installation.
